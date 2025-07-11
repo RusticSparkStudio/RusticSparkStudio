@@ -27,5 +27,7 @@ This GitHub organization hosts the source code for our projects, including:
 While this is our home for code, our creative work lives on our website and social media. We'd love for you to follow our journey!
 
 * **Website:** [rusticsparkstudio.com](https://rusticsparkstudio.com)
+* **Facebook:** [Rustic Spark Studio](https://facebook.com/RusticSparkStudio)
+* **Email:** `contact@rusticsparkstudio.com`
 
 Thanks for stopping by!
