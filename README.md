@@ -1,6 +1,6 @@
 # Welcome to Rustic Spark Studio! 👋
 
-![Rustic Spark Studio Logo](https://raw.githubusercontent.com/RusticSparkStudio/rustic-spark-studio-website/RusticSparkLogo_Transparent.png)
+![Rustic Spark Studio Logo](https://github.com/RusticSparkStudio/rustic-spark-studio-website/blob/6f170c2ef955f65365c629a70a2f4b7f6fe13e87/RusticSparkLogo_Transparent.png)
 
 This is the official GitHub home for **Rustic Spark Studio**, a husband-and-wife artisan business based in Centerville, Ohio. We are Ryan and Suzanne, and this is where we manage the code and digital projects that support our passion for creating beautiful, handcrafted works.
 
