@@ -1,8 +1,8 @@
 # Welcome to Rustic Spark Studio! 👋
 
-![Rustic Spark Studio Logo](https://github.com/RusticSparkStudio/rustic-spark-studio-website/blob/510625db01895b4ba380456f429ac2b2c6747c33/RusticSparkLogo_Transparent.png)
+![Rustic Spark Studio Logo](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/RusticSparkLogo_Transparent.png)
 
-This is the official GitHub home for **Rustic Spark Studio**, a husband-and-wife artisan business based in Centerville, Ohio. We are Ryan and Suzanne Hendrix, and this is where we manage the code and digital projects that support our passion for creating beautiful, handcrafted works.
+This is the official GitHub home for **Rustic Spark Studio**, a husband-and-wife artisan business based in Centerville, Ohio. We are Ryan and Suzanne, and this is where we manage the code and digital projects that support our passion for creating beautiful, handcrafted works.
 
 ---
 
@@ -27,7 +27,8 @@ This GitHub organization hosts the source code for our projects, including:
 While this is our home for code, our creative work lives on our website and social media. We'd love for you to follow our journey!
 
 * **Website:** [rusticsparkstudio.com](https://rusticsparkstudio.com)
-* **Facebook:** [Rustic Spark Studio](https://facebook.com/RusticSparkStudio)
+* **Facebook:** [Rustic Spark Studio](https://www.facebook.com/RusticSparkStudio)
 * **Email:** `contact@rusticsparkstudio.com`
 
 Thanks for stopping by!
+
